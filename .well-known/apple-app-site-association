@@ -1,0 +1,11 @@
+{
+  "_TODO": "PLACEHOLDER. Owner: put '<TEAM_ID>.<bundle id>' in appIDs and the paths the app should open in components, then delete this key. Universal links do not work until then.",
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [],
+        "components": []
+      }
+    ]
+  }
+}

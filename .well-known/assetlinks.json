@@ -1,0 +1,11 @@
+[
+  {
+    "_TODO": "PLACEHOLDER. Owner: fill package_name and the SHA-256 signing certificate fingerprint from Play Console, then delete this key. App links do not work until then.",
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "",
+      "sha256_cert_fingerprints": []
+    }
+  }
+]
